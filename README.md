@@ -1,1 +1,1 @@
-# ASIC-Design-Lectures
+# ASIC Design Lectures
