@@ -37,7 +37,7 @@ These documents were composed for Vietnamese Students who plan to work in Integr
 
   --> Basic concepts of STA
 
-Notes:
+NOTES:
 Vietnames Students who plan working in Integrated Circuit Design should be familiar with Linux environment.
 These links could be beneficial:
 
