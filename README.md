@@ -41,6 +41,10 @@ Notes:
 Vietnames Students who plan working in Integrated Circuit Design should be familiar with Linux environment.
 These links could be beneficial:
 
-https://www.youtube.com/watch?v=hXRdJpdVI0k&t=309s
+1/ For Linux Env & Bash-shell
 
 https://www.youtube.com/watch?v=d2W5JxRQMeI
+
+2/For VI
+
+https://www.youtube.com/watch?v=hXRdJpdVI0k&t=309s
