@@ -42,4 +42,5 @@ Vietnames Students who plan working in Integrated Circuit Design should be famil
 These links could be beneficial:
 
 https://www.youtube.com/watch?v=hXRdJpdVI0k&t=309s
+
 https://www.youtube.com/watch?v=d2W5JxRQMeI
