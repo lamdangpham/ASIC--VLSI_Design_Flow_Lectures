@@ -1,4 +1,5 @@
 # ASIC Design Lectures
+These documents were composed for Vietnamese Students who plan to work in Integrated Circuit (IC) Design. 
 
 01_ASIC_Design_Flow.pdf	
 --> Overview of ASIC Design Flow
@@ -26,3 +27,9 @@
 
 09_Static Timing Analysis_STA.pdf	
 --> Basic concepts of STA
+
+Notes:
+Vietnames Students who plan working in Integrated Circuit Design should be familiar with Linux environment.
+These links could be beneficial:
+https://www.youtube.com/watch?v=hXRdJpdVI0k&t=309s
+https://www.youtube.com/watch?v=d2W5JxRQMeI
