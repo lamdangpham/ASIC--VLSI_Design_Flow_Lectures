@@ -2,6 +2,7 @@
 These documents were composed for Vietnamese Students who plan to work in Integrated Circuit (IC) Design. 
 
 01_ASIC_Design_Flow.pdf	
+
 --> Overview of ASIC Design Flow
 
 02_Specification.pdf	
