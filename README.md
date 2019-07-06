@@ -39,7 +39,7 @@ These documents were composed for Vietnamese Students who plan to work in Integr
 
 NOTES:
 Vietnames Students who plan working in Integrated Circuit Design should be familiar with Linux environment.
-These links could be beneficial:
+These links presented in Vietnamese language could be beneficial:
 
 1/ For Linux Env & Bash-shell
 
